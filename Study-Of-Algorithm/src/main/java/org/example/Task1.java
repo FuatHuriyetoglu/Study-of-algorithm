@@ -2,7 +2,7 @@ package org.example;
 //
 //Write a function that returns the largest element in a list containing only positive integers!!
 //
-public class Task {
+public class Task1 {
     public static int maxNumber(int[] nums){
         int maxNumber = nums[0];
         for(int i = 1 ; i< nums.length; i++){
