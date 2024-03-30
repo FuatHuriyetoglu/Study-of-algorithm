@@ -1,0 +1,7 @@
+@Override: Bir metodun üst sınıfın veya bir interfaceten miras alındığını berlirtmek için kullanılır. Alt sınıfta bu metotun ezildiğini ifade eder.
+@Deprecated: Bir sınıf, metot veya alanın artık kullanılmaması gerektiğini belirtmek için kullanılır. Bu anotasyon, ilgili bileşenlerin gelecekteki sürümlerde kaldırılacağını belirtir.
+@Autowired: Bağımlılıkları otomatik olarak enjekte etmek için spring framework'ün bağımlılık enjeksiyonunda kullanılır.
+@Component:Spring bileşeni olaraj tanımlamak için kullanılır bu anotasyon, otomatik bileşen taraması sırasında spring tarafından tanınan bir sınıfı belirtir.
+@RequestMapping: bir http isteğinin belirli bir işlem yöntemine (GET,POST,PUT,DELETE vb.) eşlenmesini sağlamak için Spring MVC'de kullanılır
+@Entity: JPA(java persistence API) ile ilişkilendirilmiş bir veritabanı varlığını belirtmek için kullanılır. Bu anotasyon bir sınıfın bir veritabanı tablosuna karşılık geldiğini belirtir
+@DATA: Springboot uygulamasında Lombok kütüphanesini ekledikten sonra getter ve setter işlerimlerini yazmadan kullanmamızı sağlayan anotasyondur
