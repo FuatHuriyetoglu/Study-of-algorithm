@@ -1,7 +1,11 @@
 package org.example;
+
 //
 //Write a function that returns the largest element in a list containing only positive integers!!
+//Input 1 = [1,3,5,12,4,21,3,2] !!
+//output = 21 !!
 //
+
 public class Task1 {
     public static int maxNumber(int[] nums){
         int maxNumber = nums[0];
