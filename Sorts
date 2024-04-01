@@ -6,3 +6,4 @@ Quick Sort (Hızlı Sıralama): Bir pivot elemanı seçer, pivot elemanından k�
 Heap Sort (Yığın Sıralaması): Bir dizi üzerinde bir yığın (heap) veri yapısı oluşturarak sıralama yapar. En büyük veya en küçük elemanı kökten çıkararak sıralar.
 Counting Sort (Sayma Sıralaması): Sıralanacak elemanların aralığını bilmek gereken bir algoritmadır. Elemanları sayarak sıralar.
 Radix Sort (Taban Sıralaması): Elemanları basamak basamak sıralar. Öncelikle bir basamağa göre sıralar, ardından bir sonraki basamağa geçer.
+--

@@ -1,2 +1,2 @@
 Merhabalar,
-Ben Fuat ve bu repomda algoritma çalışmalarımı paylaşmaktayım 
+Ben Fuat ve bu repomda algoritma ve kodlama çalışmalarımı paylaşmaktayım 
