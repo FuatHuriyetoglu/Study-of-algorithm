@@ -1,0 +1,8 @@
+Bubble Sort (Balon Sıralaması): Komşu elemanları karşılaştırarak sıralama yapar. Her iterasyonda en büyük eleman en sona yerleşir.
+Selection Sort (Seçmeli Sıralama): Dizideki en küçük elemanı bulup başa yerleştirir ve bu işlemi devam ettirerek sıralama yapar.
+Insertion Sort (Ekleme Sıralaması): Bir elemanı uygun yerine ekleyerek sıralama yapar. İlk elemanı başlangıç olarak kabul eder ve sırayla eleman ekleyerek devam eder.
+Merge Sort (Birleştirme Sıralaması): Sıralanmamış bir diziyi sıralamak için bölme ve birleştirme stratejisini kullanır. Diziyi parçalara böler, her parçayı sıralar ve ardından birleştirir.
+Quick Sort (Hızlı Sıralama): Bir pivot elemanı seçer, pivot elemanından küçük olanları solda büyük olanları sağda toplar. Bu işlemi tekrar ederek sıralama yapar.
+Heap Sort (Yığın Sıralaması): Bir dizi üzerinde bir yığın (heap) veri yapısı oluşturarak sıralama yapar. En büyük veya en küçük elemanı kökten çıkararak sıralar.
+Counting Sort (Sayma Sıralaması): Sıralanacak elemanların aralığını bilmek gereken bir algoritmadır. Elemanları sayarak sıralar.
+Radix Sort (Taban Sıralaması): Elemanları basamak basamak sıralar. Öncelikle bir basamağa göre sıralar, ardından bir sonraki basamağa geçer.
