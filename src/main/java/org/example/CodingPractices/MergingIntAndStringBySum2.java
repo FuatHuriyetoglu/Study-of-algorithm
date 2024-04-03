@@ -1,8 +1,6 @@
-package org.example.HackerRank;
+package org.example.CodingPractices;
 
-import java.util.List;
-
-public class Task2 {
+public class MergingIntAndStringBySum2 {
     public static void main(String[] args) {
         Object[] mixedArray = {10, "Merhaba", 20, "Dunya", 30, "Kalbim" , 50 , "Kırık"};
 

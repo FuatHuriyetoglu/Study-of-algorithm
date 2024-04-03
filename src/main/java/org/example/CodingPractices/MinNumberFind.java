@@ -1,6 +1,6 @@
-package org.example;
+package org.example.CodingPractices;
 
-public class EnkucukBul {
+public class MinNumberFind {
     public static int  enKucukBul( int[] nums){
         int enkucuk = nums[0];
         for(int i = 1; i <nums.length; i++){

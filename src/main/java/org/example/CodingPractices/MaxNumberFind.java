@@ -1,6 +1,6 @@
-package org.example;
+package org.example.CodingPractices;
 
-public class EnBuyukBul {
+public class MaxNumberFind {
     public static int enBuyukBul(int[] nums) {
         int enBuyuk = nums[0];
         for(int i=1; i< nums.length; i++){

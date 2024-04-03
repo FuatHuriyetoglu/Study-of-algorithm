@@ -1,9 +1,9 @@
-package org.example.HackerRank;
+package org.example.CodingPractices;
 
 
  //Bir string içindeki karakterleri tersine çeviren bir Java programı yazın.
 
-    public class Task1 {
+    public class ReverseTheWord {
         public static void main(String[] args) {
             String original = "fuat mersin üniversitesini bitirdi";
             String reversed = reverseString(original);
